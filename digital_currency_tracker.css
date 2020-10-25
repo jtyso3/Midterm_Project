@@ -1,0 +1,54 @@
+#myChart{
+  height: 500px;
+  width: 1000px;
+  background-color: #FBFBFB;
+  margin: 50px;
+}
+h3{
+  font-family: 'Noto Sans JP', sans-serif;
+}
+h2{
+  padding-left: 40%;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+#page-description{
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+}
+.jumbotron{
+  padding: 20px 20px 20px 20px;
+  margin: 10px 10px 10px 10px;
+  background-color: #201A23;
+  height: 250px;
+  color: #FBFBFB
+}
+body{
+  background-color: #FBFBFB;
+}
+#chart-section{
+  background-color: #2E2532;
+  color: #FBFBFB;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 10px 10px 10px;
+  border-radius: 70px;
+}
+
+}
+#dates{
+  margin: 50px;
+  font: 20px;
+  font-weight: bold;
+}
+
+
+#submit{
+  color:#FBFBFB ;
+  border-color: #9E4770;
+  margin:0px 0px 0px 150px;
+}
+#submit:hover{
+  background-color: #9E4770;
+}
+#index-section{
+  margin: 20px 20px 20px 20px;
+}

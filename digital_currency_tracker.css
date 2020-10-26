@@ -20,7 +20,10 @@ h2{
   margin: 10px 10px 10px 10px;
   background-color: #201A23;
   height: 250px;
-  color: #FBFBFB
+  color: #FBFBFB;
+    border-radius: 70px;
+
+  
 }
 body{
   background-color: #FBFBFB;
